@@ -12,7 +12,7 @@ Spring Boot,
 Java 8,
 MySQL
 
-Instructional Resources:
+Learning Resources:
 Per Scholas Software Engingeering Instrucional Staff,
 https://reactjs.org/,
 https://axios-http.com/,
