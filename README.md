@@ -4,8 +4,8 @@ Full-stack App using ReactJS, Spring Boot and MySQL
 This is an expense tracker application based on Model, View, Controller (MVC) architecture. 
 
 Front End Build:
--ReactJS components with Axios and React Routing
--CSS3 for stying of components and display data,
+ReactJS components with Axios and React Routing,
+CSS3 for stying of components and display data
 
 Back End Build: 
 -Spring Boot 
