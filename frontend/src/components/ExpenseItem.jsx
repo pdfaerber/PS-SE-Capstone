@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 import ExpenseServices from "../Services/ExpenseServices";
 import UpdateExpenseForm from "./UpdateExpenseForm";
-
 import ExpenseDate from "./ExpenseDate";
 import Card from "./Card";
 import "./ExpenseItem.css";
@@ -24,7 +23,7 @@ const ExpenseItem = (props) => {
         <h2>{title}</h2>
         <div className="expense-item__price">${props.amount}</div>
       </div>
-      <button onClick={()=>props.history.push({pathname: '/update-expense', state: props.id})}>Update Title</button>
+      <button onClick={()=>props.history.push({pathname: '/update-expense', state: props.id})}>Update</button>
       <button onClick={()=>ExpenseServices.deleteExpense(props.id)}>delete</button>
     </Card>
   );

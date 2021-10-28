@@ -30,9 +30,11 @@ const ExpenseList = (props) => {
 
   return (
     <div>
+       <h2>Expense App: Track your spending, or whatever...</h2>
        <NewExpense />
       <Card className="expenses">
-        <h2>Expense App - Let's get it started!</h2>
+      <h2>Expense List</h2>
+       
         <ExpenseFilter
           selected={filteredYear}
           onChangeFilter={filterChangeHandler}
