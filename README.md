@@ -21,4 +21,7 @@ https://spring.io/guides/gs/spring-boot/,
 UDemy Course: React - The Complete Guide (incl Hooks, React Router, Redux)
 
 Use:
-Basic responsive and scalable tracker application (expenses, reminders, todo list/notes, task scheduling, etc.) that accepts user input, stores items in MySQL DB and allows item creation, retrieval, updates and deletes(CRUD)  
+Basic responsive and scalable tracker application (expenses, reminders, todo list/notes, task scheduling, etc.) that accepts user input, stores items in MySQL DB and allows item creation, retrieval, updates and deletes (CRUD)
+
+Next Steps: 
+Improve and increase and streamline user input and backend functionality through increased table storage and query-based filtering.   
