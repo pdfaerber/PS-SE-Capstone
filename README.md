@@ -8,9 +8,10 @@ ReactJS components with Axios and React Routing,
 CSS3 for stying of components and display data
 
 Back End Tools: 
-Spring Boot, 
+Spring Boot w/ STS, 
 Java 8,
-MySQL
+MySQL,
+Apache Tomcat
 
 Learning Resources:
 Per Scholas Software Engingeering Instrucional Staff,
