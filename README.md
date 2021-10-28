@@ -1,7 +1,7 @@
 # PS-SE-Capstone
-Full-stack App using ReactJS, Spring Boot and MySQL
 
-This is an expense tracker application based on Model, View, Controller (MVC) architecture. 
+
+Full-stack expense tracker application based on Model, View, Controller (MVC) architecture using ReactJS, Spring Boot and MySQL  
 
 Front End Tools:
 ReactJS components with Axios and React Routing,
